@@ -1,6 +1,6 @@
 👋 Hi, I’m Sebastian Stephenson
 - 👀 I’m interested in Web Dev and Software Engineering. 
-- 🌱 I’m currently learning Frontend Development, but my goal is be a fullstack developer in the future. 
+- 🌱 I’m currently learning Frontend Development, but my goal is to be a fullstack developer in the future. 
 - You can reach me at sebastian.stephenson1@gmail.com or LinkedIn: https://www.linkedin.com/in/sebastian-stephenson/
 
 <!---
